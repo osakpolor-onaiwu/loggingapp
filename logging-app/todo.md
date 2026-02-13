@@ -1,0 +1,6 @@
+- add middleware
+- add basic auth
+- generate a key for other app to log to it
+- add log fetching
+- add ttl
+- validate the app key
